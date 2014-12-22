@@ -1,3 +1,21 @@
 Staging area
 All files ready to commit ?
 It separates files so you can decide what will be in the commit
+
+Commit size
+I can add files that are logiccly connected and commit them
+
+How branches could help?
+When I am experimenting with new features and still want to have workable, bug less solution
+
+Diagrams
+Give me idea what is connected to what in graphical fashion
+
+Merging
+By merging two branches together we create
+ a one version from two branches that keeps the changes from both versions
+ 
+ automatic and manual
+ 
+ Automatic - don't know what i am doing. manual - why computers are for
+ 
